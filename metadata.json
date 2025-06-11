@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Data Dashboard",
+  "description": "A real-time dashboard for marketing data from Meta and TikTok, with a Gemini AI chat assistant. Data is fetched on page load to simulate live updates. Note: The 09:00 UK time update schedule is a backend characteristic; this frontend fetches data upon loading.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
